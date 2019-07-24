@@ -1,2 +1,2 @@
 # Auto-test
-Homeworks for course
+ [Homeworks for course in stepic.org](https://stepik.org)
